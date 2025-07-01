@@ -32,3 +32,20 @@ How to Run the Project Locally
 bash
 git clone https://github.com/Bhanu-prakashcse/spring-rest-backend.git
 cd spring-rest-backend
+
+Folder structure:
+
+spring-rest-backend/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/example/vendor/
+│   │   │       ├── controller/
+│   │   │       ├── service/
+│   │   │       ├── repository/
+│   │   │       ├── model/
+│   │   │       └── exception/
+│   │   └── resources/
+│   │       └── application.properties
+├── pom.xml
+└── README.md
